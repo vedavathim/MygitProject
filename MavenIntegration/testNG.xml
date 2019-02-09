@@ -4,6 +4,7 @@
   <test name="Regression3"   >
     <classes>
       <class name="GenericLearning.CKH_Admin_Login"/>
+       <class name="GenericLearning.GetTheURL"/>
     </classes>
     
  </test>

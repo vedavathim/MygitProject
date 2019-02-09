@@ -27,7 +27,7 @@ public class GetTheURL {
 	public void GetTheURLAfterMethod()
 	{
 		System.out.println("Success");
-		LB.driver.close();
+		LB.driver.quit();
 	}
 	
 }

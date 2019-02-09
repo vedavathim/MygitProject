@@ -21,6 +21,7 @@ public class CKH_Admin_Login {
 		public void CKH_Admin_Login_Method()
 		{
 		LB.driver.get("https://demo.sigmainfo.in:5015/admin_login");
+		System.out.println("Success CKH_Admin_Login script");
 		
 		}
 
