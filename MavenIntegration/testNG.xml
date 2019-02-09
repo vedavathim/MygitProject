@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ 
+<suite name="Suite3" verbose="3" >
+  <test name="Regression3"   >
+    <classes>
+      <class name="GenericLearning.CKH_Admin_Login"/>
+    </classes>
+    
+ </test>
+</suite>
